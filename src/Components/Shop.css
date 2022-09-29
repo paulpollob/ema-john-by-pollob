@@ -11,3 +11,9 @@
     gap: 45px
 
 }
+
+.cart-container{
+    position: sticky;
+    top: 0;
+    background-color: #FF9900;
+}
